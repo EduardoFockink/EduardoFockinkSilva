@@ -1,4 +1,4 @@
-# Eduardo Fockink Silva 👋
+# Eduardo Fockink 👋
 
 ## 🎓 Formação Acadêmica
 
