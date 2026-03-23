@@ -1,37 +1,18 @@
-# Eduardo Fockink 👋
+[![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoFockink&show_icons=true&count_private=true&hide=stars&theme=radical)](https://github.com/EduardoFockink)
 
-## 🎓 Formação Acadêmica
+## About me
 
-- 📚 Cursando Ciência da Computação na [UNIJUÍ](https://www.unijui.edu.br/)
-- 🎯 Data de Conclusão Prevista: 2025/2
+Computer Science graduate focused on **Offensive Security**, **Pentesting**, and **Security Assessment**.
 
-## 👨‍💻 Áreas de Interesse
+I work with **Linux**, **networks**, **web security**, **APIs**, and **infrastructure analysis**, always aiming for a practical and evidence-driven approach.
 
-- 🌐 Realidade Virtual (RV)
-- 🌐 Realidade Aumentada (AR)
-- 🤖 Machine Learning
-- 🧪 Ciência
+At the moment, I am deepening my offensive security skills through **labs**, **writeups**, **automation**, and **reproducible testing**.
 
-## 🛠️ Linguagens e Ferramentas
+## Interests
 
-- **Conhecimento sólido em:**
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) 
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-
-- **Atualmente aprendendo:**
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
-
-## 💡 Projetos e Contribuições
-
-- **RV e AR**: Desenvolvimento de aplicações interativas usando Blender e Unity.
-  
-## 📊 Estatísticas do GitHub
-
-[![Estatísticas do GitHub de Eduardo](https://github-readme-stats.vercel.app/api?username=EduardoFockinkSilva&show_icons=true&count_private=true&hide=stars&theme=radical)](https://github.com/seu_username)
-
-## 📫 Contato
-
-- **📧 E-mail**: [eduardofockinksila@gmail.com](mailto:eduardofockinksila@gmail.com)
-- **Linkedin**: [Eduardo Focknik Silva](https://www.linkedin.com/in/eduardo-fockink-silva/)
-
----
+- Offensive Security / Pentesting
+- API Development
+- Networking / Privacy
+- Linux / Operating Systems
+- Cloud / Virtualization
+- AI Agents / Automation
