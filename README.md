@@ -1,5 +1,3 @@
-[![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoFockink&show_icons=true&count_private=true&hide=stars&theme=radical)](https://github.com/EduardoFockink)
-
 ## About me
 
 Computer Science graduate focused on **Offensive Security**, **Pentesting**, and **Security Assessment**.
